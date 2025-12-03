@@ -1,4 +1,10 @@
-## Hi 👋, I'm Balaji
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Balaji%20Dasari&fontSize=60&fontColor=39FF14&animation=twinkling&color=0:0B0F18,50:0D0D34,100:0B0F18" />
+</p>
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on Java projects and engineering problem-solving<br>👯 I’m looking to collaborate on math-based coding and physics simulations<br>🤝 I’m looking for help with advanced algorithms and modeling<br>🌱 I’m currently learning Java, calculus, and linear algebra applications<br>⚡ Fun fact: I turn tough math problems into working Java solutions
 
