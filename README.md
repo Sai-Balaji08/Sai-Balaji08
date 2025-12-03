@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Balaji%20Dasari&fontSize=60&fontColor=39FF14&animation=twinkling&color=0:0B0F18,50:0D0D34,100:0B0F18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Sai%20Balaji&fontSize=60&fontColor=39FF14&animation=twinkling&color=0:0B0F18,50:0D0D34,100:0B0F18" />
 </p>
 
 
