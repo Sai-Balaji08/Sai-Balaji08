@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Java projects and  engineering problem-solving<br>👯 I’m looking to collaborate on math-based coding and physics simulations<br>🤝 I’m looking for help with advanced algorithms and modeling<br>🌱 I’m currently learning Java, calculus, and linear algebra applications<br>⚡ Fun fact: I turn tough math problems into working Java solutions
+🔭 I’m currently working on Java projects and   problem-solving<br>👯 I’m looking to collaborate on math-based coding and physics simulations<br>🤝 I’m looking for help with advanced algorithms and modeling<br>🌱 I’m currently learning Java, calculus, and linear algebra applications<br>⚡ Fun fact: I turn tough math problems into working Java solutions
 
 
 ## 🌐 Socials:
