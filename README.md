@@ -28,17 +28,22 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats for Sai-Balaji08" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Balaji08&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Balaji08&theme=tokyonight" alt="GitHub streak stats for Sai-Balaji08" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=tokyonight&no-frame=true&column=7" alt="GitHub trophies for Sai-Balaji08" />
 </p>
 
+<!-- Contribution / Streak graph -->
+<p align="center">
+  <!-- Contribution calendar graph (SVG) -->
+  <img src="https://ghchart.rshah.org/Sai-Balaji08" alt="Contribution graph for Sai-Balaji08" />
+</p>
 
 ---
 
