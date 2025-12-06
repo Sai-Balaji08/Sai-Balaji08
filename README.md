@@ -63,11 +63,6 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sai-Balaji08.Sai-Balaji08" alt="Visitor Badge" />
 </p>
 
-<!-- Snake graph -->
-<p align="center">
-  <img src="./snake.svg" alt="Animated Snake Graph" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=435&lines=Coding...;Learning...;Exploring..." alt="Typing Animation" />
 </p>
