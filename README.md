@@ -4,7 +4,7 @@
 
 
 
-# 👋 Hi, I'm Dasari  
+# 👋 Hi, I'm Sai Balaji Dasari  
 
 🚀 **Aspiring Full-Stack Developer | AI Productivity Enthusiast | Freelancer-in-Progress**
 
