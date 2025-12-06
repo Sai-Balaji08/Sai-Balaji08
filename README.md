@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Balaji08&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sai-Balaji08&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
