@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Sai%20Balaji%20Dasari&fontSize=60&fontColor=39FF14&animation=twinkling&color=0:0B0F18,50:0D0D34,100:0B0F18" />
 </p>
@@ -41,7 +42,6 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
 
 <!-- Contribution / Streak graph -->
 <p align="center">
-  <!-- Contribution calendar graph (SVG) -->
   <img src="https://ghchart.rshah.org/Sai-Balaji08" alt="Contribution graph for Sai-Balaji08" />
 </p>
 
@@ -63,6 +63,12 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sai-Balaji08.Sai-Balaji08" alt="Visitor Badge" />
 </p>
 
+<!-- Snake graph -->
+<p align="center">
+  <img src="./snake.svg" alt="Animated Snake Graph" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=435&lines=Coding...;Learning...;Exploring..." alt="Typing Animation" />
 </p>
+```
