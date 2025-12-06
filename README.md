@@ -35,11 +35,15 @@
 
 ## Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-Balaji08&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-Balaji08&theme=react-dark&area=true&hide_border=true">
 </div>
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=onedark&no-frame=true" />
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sai-Balaji08&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
