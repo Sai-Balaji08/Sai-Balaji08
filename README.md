@@ -28,16 +28,17 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saibalajidasari&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibalajidasari&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Balaji08&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibalajidasari&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=tokyonight&no-frame=true&column=7" />
 </p>
+
 
 ---
 
@@ -54,7 +55,7 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
 ## ✨ Fun / Aesthetic Add-ons
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saibalajidasari.saibalajidasari" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sai-Balaji08.Sai-Balaji08" alt="Visitor Badge" />
 </p>
 
 <p align="center">
