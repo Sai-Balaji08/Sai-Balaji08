@@ -33,6 +33,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saibalaji-dasari-41385639b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saibalajidasari009@gmail.com) 
 
+## Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-Balaji08&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
