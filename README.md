@@ -28,20 +28,17 @@ I’m an enthusiastic developer focused on building efficient, scalable, and use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saibalajidasari&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saibalajidasari&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibalajidasari&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibalajidasari&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibalajidasari&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saibalajidasari&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/saibalajidasari/saibalajidasari/blob/output/github-snake-dark.svg" alt="GitHub Snake Graph" />
-</p>
 
 ---
 
