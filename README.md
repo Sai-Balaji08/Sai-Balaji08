@@ -1,6 +1,7 @@
+<!-- 🚀 Futuristic Banner -->
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.d2fc1ab5-5c79-4323-95a4-c99d1176bf45.png" alt="SAI BALAJI DASARI Banner" />
-</p><!-- Banner -->
+</p>
 
 # 👋 Hi, I'm SAI BALAJI DASARI  
 
@@ -31,9 +32,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Balaji08&layout=compact&theme=radical" alt="languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Balaji08&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Balaji08&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Balaji08&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -47,7 +48,7 @@
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/Sai-Balaji08/Sai-Balaji08/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/Sai-Balaji08/Sai-Balaji08/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
