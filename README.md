@@ -1,7 +1,6 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Coding Dino" width="400"/>
-</p>
+  <img src="https://copilot.microsoft.com/th/id/BCO.d2fc1ab5-5c79-4323-95a4-c99d1176bf45.png" alt="SAI BALAJI DASARI Banner" />
+</p><!-- Banner -->
 
 # 👋 Hi, I'm SAI BALAJI DASARI  
 
