@@ -1,55 +1,69 @@
-  <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Sai%20Balaji&fontSize=60&fontColor=39FF14&animation=twinkling&color=0:0B0F18,50:0D0D34,100:0B0F18" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Coding Dino" width="400"/>
 </p>
 
+# 👋 Hi, I'm SAI BALAJI DASARI  
 
+### 🌟 Innovating Ideas | Building Solutions | Empowering Growth  
 
-# 👋 Hi, I'm Sai Balaji Dasari  
+---
 
-🚀 **Aspiring Full-Stack Developer | AI Productivity Enthusiast | Freelancer-in-Progress**
+## 🚀 About Me
+- 🌱 Currently learning **Java, HTML, CSS, JavaScript, Command Line Basics, Git Basics**  
+- 🎯 Long-term goals: Build **AI-powered apps**, master **Full-Stack Development**, and **solve real-world problems**  
+- 💡 Philosophy: *“Difficult roads often lead to beautiful destinations.”*  
 
-### 🌟 About Me  
-- 🌱 Learning **HTML, CSS, JavaScript** and exploring **Java **  
-- 🎯 Interested in **freelancing** (content writing, tutoring, web development, digital marketing, graphic design)  
-- 📚 Passionate about **java, python, css, javascript, html**  
-- 🎤 Love blending **tech talks** with **public speaking & presentations**  
+---
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend (Learning):** Java Servlets
-- **Other Skills:** Content Writing, Digital Marketing, Tutoring  
-- **Tools:** VS Code, Git, GitHub  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,vscode,git,github" />
+</p>
 
-### 📌 Featured Projects
-- 🗓️ **AI Daily Schedule Maker** – Smart productivity app with AI logic  
-- 🎓 **Control Systems – Obstacle Avoidance** – Academic presentation project  
-- 🌐 **Portfolio Website** – Showcasing my freelancing and technical journey  
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sai-Balaji08&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Balaji08&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌟 Featured Projects
+- 🚧 **Coming Soon:** AI-powered Daily Schedule Maker  
+- 🚧 **Future Full-Stack Projects**  
+- 🚧 **Control Systems – Obstacle Avoidance Presentation**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saibalaji-dasari-41385639b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saibalajidasari009@gmail.com) 
+---
 
-## Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-Balaji08&theme=react-dark&area=true&hide_border=true">
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Balaji08&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Balaji08&theme=radical" alt="streak"/>
+</p>
 
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=onedark&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sai-Balaji08&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-
-### ✍️ 
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/Sai-Balaji08/Sai-Balaji08/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
-✨ *“Gratitude, growth, and meaningful connections fuel my journey.”*
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:saibalaji009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saibalaji-dasari-41385639b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/saibalajidsz9e"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/long_jazz_71"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/saibalajidasari2"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Sai-Balaji08">SAI BALAJI DASARI</a>
+</p>
