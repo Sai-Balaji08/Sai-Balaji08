@@ -1,83 +1,66 @@
-<!-- 🚀 Futuristic Banner -->
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.d2fc1ab5-5c79-4323-95a4-c99d1176bf45.png" alt="SAI BALAJI DASARI Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Sai%20Balaji%20Dasari&fontSize=60&fontColor=39FF14&animation=twinkling&color=0:0B0F18,50:0D0D34,100:0B0F18" />
 </p>
 
-<h1 align="center">👋 Hi, I'm SAI BALAJI DASARI</h1>
+# 👋 Hi, I’m Sai Balaji Dasari
 
-<h3 align="center">🌟 Innovating Ideas | Building Solutions | Empowering Growth</h3>
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Java, HTML, CSS, JavaScript, Command Line Basics, Git Basics**  
-- 🎯 Long-term goals: Build **AI-powered apps**, master **Full-Stack Development**, and **solve real-world problems**  
-- 💡 Philosophy: *“Difficult roads often lead to beautiful destinations.”*  
+I’m an enthusiastic developer focused on building efficient, scalable, and user-friendly applications.
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,vscode,git,github" />
-</p>
 
----
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-## 🌟 Featured Projects
-- 🚧 **Coming Soon:** AI-powered Daily Schedule Maker  
-- 🚧 **Future Full-Stack Projects**  
-- 🚧 **Control Systems – Obstacle Avoidance Presentation**  
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sai-Balaji08&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sai-Balaji08&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saibalajidasari&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sai-Balaji08&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibalajidasari&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Balaji08&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saibalajidasari&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 </p>
 
----
-
-## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sai-Balaji08/Sai-Balaji08/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/saibalajidasari/saibalajidasari/blob/output/github-snake-dark.svg" alt="GitHub Snake Graph" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:saibalaji009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/saibalaji-dasari-41385639b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/saibalajidsz9e">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-  </a>
-  <a href="https://www.codechef.com/users/long_jazz_71">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/saibalajidasari2">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-</p>
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saibalaji-dasari-41385639b)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saibalajidasari009@gmail.com)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/saibalajidsz9e)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/long_jazz_71)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saibalajidasari2)  
 
 ---
 
+## ✨ Fun / Aesthetic Add-ons
+
 <p align="center">
-  ⭐️ From <a href="https://github.com/Sai-Balaji08">SAI BALAJI DASARI</a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saibalajidasari.saibalajidasari" alt="Visitor Badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=435&lines=Coding...;Learning...;Exploring..." alt="Typing Animation" />
 </p>
