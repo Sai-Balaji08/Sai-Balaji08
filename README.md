@@ -47,12 +47,8 @@
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sai-balaji08&theme=tokyonight&no-frame=true&margin-w=15&column=6&rank=SSS,SS,S,AAA,AA,A,B"
-    alt="github trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sai-balaji08" />
 </p>
-
 
 ---
 
