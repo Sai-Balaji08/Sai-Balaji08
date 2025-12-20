@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 - 💻 Java & Web Developer  
-- ⚡ Learning Full-Stack  
+- ⚡ Learning Full-Stack Development  
 - 🔧 Git | GitHub | VS Code  
 - 📚 Always improving  
 
