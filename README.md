@@ -71,5 +71,5 @@
 
 <!-- 🌊 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=140&section=footer" />
 </p>
