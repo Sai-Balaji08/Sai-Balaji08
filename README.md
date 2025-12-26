@@ -1,6 +1,6 @@
 <!-- 🔥 Neon Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F0HHH&height=230&section=header&text=SAI%20BALAJI%20DASARI&fontSize=48&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F0HRR&height=230&section=header&text=SAI%20BALAJI%20DASARI&fontSize=48&fontColor=ffffff&animation=twinkling" />
 </p>
 
 ---
